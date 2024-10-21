@@ -7,7 +7,6 @@ Il workshop sara' tenuto dal sottoscritto, Loris Cro. Sul [mio profilo GitHub](h
 
 Per quanto concerne questo workshop piu' direttamente, sono laureato in informatica dal 2014 e lavoro full time alla Zig Software Foundation dalla sua fondazione (circa 4 anni fa). Mi e' gia' capitato di tenere workshop di Zig in passato e cercando il mio nome su YouTube potete trovare diversi talk a tema. Infine, potete trovarmi regolarmente [live su Twitch](https://twitch.tv/kristoff_it) a programmare in Zig mentre lavoro a vari progetti open source.
 
-
 ## Intro
 Questo workshop di sei ore totali, divise in due incontri da tre ore l'uno, e' finalizzato a fornire una introduzione alla programmazione di basso livello ed al linguaggio di programmazione Zig.
 
@@ -28,6 +27,35 @@ di alto livello.
 
 [1]: Ad esempio uno qualsiasi tra Python, JavaScript, Java, C#, PHP, Ruby, etc. 
      Esperienza di C/C++/Rust puo' essere d'aiuto ma non e' necessaria.
+
+## Agenda
+### Sabato 23
+1. Introduzione a Zig
+	1. Il progetto Zig
+	2. Perche' imparare la programmazione di sistemi?
+	3. Il workflow Zig (dev tools, compilatore, etc)
+2. Esercizi
+	1. Hello World
+	2. Puntatori
+	3. Corruzione della memoria
+	4. Stack Vs Heap
+3. Showcase:
+	1. Zine: generatore di siti web statici scritto in Zig
+	2. D2: WIP app di messaggistica istantanea 
+4. Note conclusive
+ 
+### Sabato 30
+1. Introduzione a Zig (continua)
+	1. Comptime
+	2. Build System, Crosscompilazione
+	3. Package manager
+2. Esercizi
+	1. Generics
+	2. ArrayList, SegmentedList
+	3. Crosscompilare per WASM
+	4. Hello World GUI con DVUI
+3. Q&A
+4. Note Conclusive
 
 ## Prerequisiti
 L'unico prerequisito per partecipare al workshop e' di avere installato il compilatore Zig **versione 0.13.0**.
@@ -73,7 +101,9 @@ https://github.com/ziglang/zig/wiki/Community
 
 Per le finalita' di questo workshop, e' fortemente consigliato unirsi al gruppo telegram "Zig Italia" creato dal sottoscritto: https://t.me/ziglang_it
 
-Se avete buona padronanza dell'inglese (e usate Discord), vi consiglierei in aggiunta https://discord.gg/zig in quanto possiede uno dei canali di aiuto piu' attivi.
+**Qualora abbiate problemi a fare il setup iniziale, chiedete aiuto nel gruppo Telegram.**
 
+A presto,
+Loris Cro
 
 
