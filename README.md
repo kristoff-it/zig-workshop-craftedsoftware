@@ -1,7 +1,7 @@
 # Intro to Zig Workshop in collaborazione con Crafted Software
 
 ## About
-Il workshop e' stato creato in collaborazione con l'associazione culturale non a scopo di lucro [Crafted Software](https://craftedsoftware.org).
+Il workshop e' stato creato in collaborazione con l'associazione culturale non a scopo di lucro [Crafted Software](https://www.craftedsoftware.org).
 
 Il workshop sara' tenuto dal sottoscritto, Loris Cro. Sul [mio profilo GitHub](https://github.com/kristoff-it/) potete trovare la mia bio completa con tanto di link vari. 
 
