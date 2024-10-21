@@ -1,29 +1,28 @@
 # Intro to Zig Workshop in collaborazione con Crafted Software
 
 ## About
-Il workshop e' stato creato in collaborazione con l'associazione culturale non a scopo di lucro di [Crafted Software](https://craftedsoftware.org).
+Il workshop e' stato creato in collaborazione con l'associazione culturale non a scopo di lucro [Crafted Software](https://craftedsoftware.org).
 
-Il workshop sara' tenuto dal sottoscritto, Loris Cro. Sul [mio profilo GitHub](https://github.com/kristoff-it/) potete trovare la mia bio completa con tanto di link. 
+Il workshop sara' tenuto dal sottoscritto, Loris Cro. Sul [mio profilo GitHub](https://github.com/kristoff-it/) potete trovare la mia bio completa con tanto di link vari. 
 
-Per quanto concerne questo workshop piu' direttamente, sono laureato in informatica dal 2014 e lavoro full time alla Zig Software Foundation dalla sua fondazione (circa 4 anni fa). Mi e' gia' capitato di tenere workshop di Zig in passato e cercando il mio nome su YouTube potete trovare diversi talk a tema. Infine, potete trovarmi regolarmente [live su Twitch](https://twitch.tv/kristoff_it) a programmare in Zig mentre lavoro a vari progetti open source.
+La mia bio in breve: sono laureato in informatica dal 2014 e lavoro full time alla Zig Software Foundation dalla sua fondazione (circa 4 anni fa). Mi e' gia' capitato di tenere workshop di Zig in passato e cercando il mio nome su YouTube potete trovare diversi talk a tema. Infine, sono regolarmente [live su Twitch](https://twitch.tv/kristoff_it) a programmare in Zig mentre lavoro a vari progetti open source.
 
 ## Intro
-Questo workshop di sei ore totali, divise in due incontri da tre ore l'uno, e' finalizzato a fornire una introduzione alla programmazione di basso livello ed al linguaggio di programmazione Zig.
+Questo workshop di sei ore totali, divise in due incontri da tre ore l'uno, e' finalizzato a fornire un'introduzione alla programmazione di basso livello e al linguaggio di programmazione Zig.
 
-Ogni incontro si struttura in 3 momenti principali:
+Ogni incontro si struttura in 3 sezioni principali:
 1. Parte espositiva
 2. Esercizi pratici
 3. Q&A e presentazione di progetti open source concreti
 
-Alla fine del corso i partecipanti avranno un'idea delle principali proprieta' della programmazione di basso livello e di 
-come questa aiuti a realizzare software che sarebbe diversamente impossibile da realizzare con l'utilizzo esclusivo di 
-linguaggi di alto livello, partendo dalla teoria, proseguendo per semplici esempi pratici, fino a leggere il codice di 
-reali progetti open source scritti in Zig.
+Alla fine del corso i partecipanti avranno un'idea delle principali proprieta' della programmazione di basso livello e di come questa aiuti a realizzare software che sarebbe diversamente impossibile da realizzare con l'utilizzo esclusivo di linguaggi di alto livello, partendo dalla teoria, proseguendo per semplici esempi pratici, fino a leggere il codice di reali progetti open source scritti in Zig.
 
 ## Per chi e' questo workshop?
 Ai partecipanti di questo workshop e' richiesto avere gia' esperienza di programmazione di alto livello [1], in quanto il workshop
 si concentrera' sul descrivere la programmazione di basso livello in termini di paralleli e differenze respetto alla programmazione
 di alto livello.
+
+Si presumono anche la conoscenza base di `git` e la capacita' di usare i comandi base della riga di comando.
 
 [1]: Ad esempio uno qualsiasi tra Python, JavaScript, Java, C#, PHP, Ruby, etc. 
      Esperienza di C/C++/Rust puo' essere d'aiuto ma non e' necessaria.
@@ -94,16 +93,19 @@ Opzionalmente:
 
 
 ## Community
-Zig descrive la propria community come "decentralizzata", nel senso che non esiste un luogo ufficiale di discussione. Di conseguenza sta alla sensibilita' del singolo utente la scielta di a quale/i community unirsi.
+Zig descrive la propria community come "decentralizzata", nel senso che non esiste un luogo ufficiale di discussione. Di conseguenza sta alla sensibilita' del singolo utente scegliere a quale/i community unirsi.
 
-L'elenco delle community "conosciute" e' una pagina sulla wiki del repository ufficiale:  
+L'elenco delle community "note" e' una pagina sulla wiki del repository ufficiale:  
 https://github.com/ziglang/zig/wiki/Community
 
-Per le finalita' di questo workshop, e' fortemente consigliato unirsi al gruppo telegram "Zig Italia" creato dal sottoscritto: https://t.me/ziglang_it
+Per questo workshop, e' fortemente consigliato unirsi al gruppo telegram "Zig Italia" creato dal sottoscritto: https://t.me/ziglang_it
 
 **Qualora abbiate problemi a fare il setup iniziale, chiedete aiuto nel gruppo Telegram.**
 
 A presto,
 Loris Cro
 
+
+P.S. 
+Se state fremendo dalla voglia di provare Zig, potete portarvi avanti con https://ziglings.org.
 
