@@ -1,5 +1,8 @@
 # Intro to Zig Workshop in collaborazione con Crafted Software
 
+## Link Eventbrite
+https://www.eventbrite.it/e/registrazione-intro-to-zig-the-new-era-of-systems-programming-1041933941467
+
 ## About
 Il workshop e' stato creato in collaborazione con l'associazione culturale non a scopo di lucro [Crafted Software](https://www.craftedsoftware.org).
 
